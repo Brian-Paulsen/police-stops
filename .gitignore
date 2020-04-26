@@ -1,3 +1,8 @@
+# Bugs
+CODA*.txt
+inits*.txt
+log.txt
+script.txt
 
 # History files
 .Rhistory
