@@ -1,0 +1,36 @@
+ARSON: Arson
+ASLT1: Assault - great bodily harm
+ASLT2: Assault - with dangerous weapon
+ASLT3: Assault - with sigificant bodily harm
+ASLT4: Assault - with police / emergency?
+AUTOTH: Motor vehicle theft
+BIKETF: Bike theft
+BURGB: Burglary of business
+BURGD: Burglary of dwelling
+Coinop: Theft of Coinop device
+COMPUT: Computer hacking
+CSCR: Criminal sexual conduct - rape
+DASLT1: First degree domestic assault
+DASLT2: Second degree domestic assault
+DASLT3: Third degree domestic assault
+DASTR: Domestic assault/Strangulation
+DISARM - Disarm a police officer
+JHOMIC: Justifiable homicide
+LOOT: Looting
+MURDR: Murder
+MVTHFT: Other vehicle theft
+Nopay: Gas station drive off
+ONLTHT: Online theft
+PETIT: Petty theft
+POCKET: Pick pocket
+ROBBIZ: Robbery of business
+ROBPAG: Aggravated robbeery
+ROBPER: Robbery of person
+SCRAP: Scrapping recycling theft
+SHOPLF: Shoplifting
+TBLDG: Theft from building
+TFMV: Theft from motor vehicle
+TFPER: Theft from person
+TFEFT: Other theft
+THFTSW: Theft by swindle
+TMVP: Theft of vehicle parts

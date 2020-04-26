@@ -1,0 +1,31 @@
+OpenBUGS version 3.2.3 rev 1012
+model is syntactically correct
+data loaded (variables not in the model: J)
+model compiled
+initial values loaded and chain initialized but another chain contain uninitialized variables (variables not in the model: sigma.a)
+initial values loaded and chain initialized but another chain contain uninitialized variables (variables not in the model: sigma.a)
+model is initialized (variables not in the model: sigma.a)
+model is already initialized
+50 updates took 0 s
+a is not a variable in the model
+monitor set
+monitor set
+sigma.a is not a variable in the model
+monitor set
+a is not a variable in the model
+monitor set
+monitor set
+sigma.a is not a variable in the model
+monitor set
+deviance set
+50 updates took 0 s
+CODA files written
+Summary statistics
+		mean	sd	val2.5pc	median	val97.5pc	sample
+	deviance	1032.0	1.773	1029.0	1031.0	1037.0	150
+	mu	51.6	0.7297	50.36	51.61	53.09	150
+	sigma.y	8.752	0.4804	8.012	8.745	9.807	150
+Deviance information
+	Dbar	Dhat	DIC	pD	
+y	1032.0	1030.0	1034.0	1.813
+total	1032.0	1030.0	1034.0	1.813

@@ -1,0 +1,3 @@
+deviance	1	50
+mu	51	100
+sigma.y	101	150

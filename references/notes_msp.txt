@@ -1,0 +1,26 @@
+# Notes about the Data
+
+These data have been adjusted to fit current geographical boundaries using the 2010 Census counts for population and housing to provide the best estimate of how many people or housing units relate to each characteristic. Median calculations provided represent weighted averages of census tract medians with the weighting based on the percent that each census tract represents of the selection area whole.
+
+The most recent American Community Survey, 5-year estimates on population, housing, workforce, economy, education, transportation, and health are provided for custom geographic areas, such as communities, planning districts, and neighborhoods, with 1,500 housing units or more. Decennial 2010 data on population, housing, and workforce are provided for custom geographic areas with fewer than 1,500 housing units.
+
+Percentages may not sum to 100 percent due to rounding.
+
+Age-specific poverty rates are calculated by dividing the total number of people in an age category living below the poverty line in the past 12 months by the total population of people in that same age category.
+
+If data are suppressed, they are often available at a higher level of geography. Data are suppressed when there are fewer than 10 people or units in a category, the percentage estimate is less than 1%, or the error margins were greater than 70% of the estimate of a numeric value, such as median income.
+
+# Data Sources
+
+Decennial Census data from the U.S. Census Bureau is used for these profiles to derive population and household weights for American Community Survey data.
+
+Longitudinal Employer-Household Dynamics (LEHD) data from OnTheMap. LEHD data combine federal, state and Census Bureau data on employers and employees to create an annual data set of employment and workforce data.
+
+American Community Survey (ACS) 5-year estimates from the U.S. Census Bureau. ACS data describes average characteristics over a period of time. It provides increased statistical reliability of the data for less populated areas and small population subgroups.
+
+Excensus, LLC provides detailed housing and demographic profiles for the Twin Cities Metropolitan Area.
+
+Additional information about data sources can be found here: https://www.mncompass.org/about/profile-sources
+
+Compiled by Minnesota Compass, 2019
+Downloaded from https://www.mncompass.org/profiles/neighborhoods/minneapolis-saint-paul
