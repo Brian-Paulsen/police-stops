@@ -3,6 +3,8 @@ CODA*.txt
 inits*.txt
 log.txt
 script.txt
+odc*
+buffer.txt
 
 # History files
 .Rhistory
